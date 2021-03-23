@@ -6,7 +6,7 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
 
 # O Projeto
 
-# Estruturas de Pastas
+## Estruturas de Pastas
 
   * kenzie-academy_startnasuacarreira.png
   * README.md
@@ -23,7 +23,7 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
      - css/
       - style.css
 
-# Especificações
+## Especificações
 
   * Fonte utilizada: "Open Sans", san-serif;
   * Cores utilizadas:
@@ -35,6 +35,6 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
     - Cinza escuro: `#636363`;
     - Cinza claro: `#aeaeae`;
 
-# O Layout
+## O Layout
 
 [Desktop](https://github.com/Kenzie-Academy-Brasil/portfolio-start-sua-carreira/blob/main/kenzie-acaddemy_startsuacarreira.png)
