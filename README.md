@@ -4,29 +4,29 @@ Aqui vamos desenvoler ao longo dos dias desse curso, um currículo/portfólio.
 
 Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
 
-# O Projeto
+## O Projeto
 
-## Estruturas de Pastas
+### Estruturas de Pastas
 
-  * kenzie-academy_startnasuacarreira.png
-  * README.md
-  * dia1/
-    - index.html
-    - assets/
-     - img/
-      - facebook-app-symbol.svg
-      - github-big-logo.svg
-      - hudson.svg
-      - instagram.svg
-      - linkedin.svg
-      - youtube.svg
-     - css/
-      - style.css
+- kenzie-academy_startnasuacarreira.png
+- README.md
+- dia1/
+  - index.html
+  - assets/
+   - img/
+    - facebook-app-symbol.svg
+    - github-big-logo.svg
+    - hudson.svg
+    - instagram.svg
+    - linkedin.svg
+    - youtube.svg
+   - css/
+    - style.css
 
-## Especificações
+### Especificações
 
-  * Fonte utilizada: "Open Sans", san-serif;
-  * Cores utilizadas:
+- Fonte utilizada: "Open Sans", san-serif;
+- Cores utilizadas:
     - Azul escuro: `#04133d`;
     - Azul: `#0a78fa`;
     - Azul claro: `#45dbfc`;
@@ -35,6 +35,6 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
     - Cinza escuro: `#636363`;
     - Cinza claro: `#aeaeae`;
 
-## O Layout
+### O Layout
 
 [Desktop](https://github.com/Kenzie-Academy-Brasil/portfolio-start-sua-carreira/blob/main/kenzie-acaddemy_startsuacarreira.png)
