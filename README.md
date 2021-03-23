@@ -11,17 +11,17 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
 - kenzie-academy_startnasuacarreira.png
 - README.md
 - dia1/
-     - index.html
-     - assets/
-           - img/
-            - facebook-app-symbol.svg
-            - github-big-logo.svg
-            - hudson.svg
-            - instagram.svg
-            - linkedin.svg
-            - youtube.svg
-           - css/
-            - style.css
+ - index.html
+ - assets/
+  - img/
+   - facebook-app-symbol.svg
+   - github-big-logo.svg
+   - hudson.svg
+   - instagram.svg
+   - linkedin.svg
+   - youtube.svg
+  - css/
+   - style.css
 
 ### Especificações
 
