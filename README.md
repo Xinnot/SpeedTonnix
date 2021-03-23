@@ -14,14 +14,14 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
   - index.html
   - assets/
    - img/
-         - facebook-app-symbol.svg
-         - github-big-logo.svg
-         - hudson.svg
-         - instagram.svg
-         - linkedin.svg
-         - youtube.svg
+    - facebook-app-symbol.svg
+    - github-big-logo.svg
+    - hudson.svg
+    - instagram.svg
+    - linkedin.svg
+    - youtube.svg
    - css/
-         - style.css
+    - style.css
 
 ### Especificações
 
