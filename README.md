@@ -6,7 +6,7 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
 
 # O Projeto
 
-#Estruturas de Pastas
+# Estruturas de Pastas
 
   * kenzie-academy_startnasuacarreira.png
   * README.md
@@ -37,4 +37,4 @@ Esse repositório será atualizado todos os dias, com as alterações feitas jun
 
 # O Layout
 
-[Desktop!](https://github.com/Kenzie-Academy-Brasil/portfolio-start-sua-carreira/blob/main/kenzie-acaddemy_startsuacarreira.png)
+[Desktop](https://github.com/Kenzie-Academy-Brasil/portfolio-start-sua-carreira/blob/main/kenzie-acaddemy_startsuacarreira.png)
