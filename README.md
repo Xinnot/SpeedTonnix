@@ -9,7 +9,7 @@ Esse repositório sempre será atualizado.
 ### Meus repósitorios:
 
 - HTML-Projects
-  - [Veja aqui!](https://github.com/Xinnot/HTML-Projects)https://github.com/Xinnot/HTML-Projects
+  - [Veja aqui!](https://github.com/Xinnot/HTML-Projects)
 
 - Python-Projects
   - [Veja aqui!](https://github.com/Xinnot/Python-Projects)
