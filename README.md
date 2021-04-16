@@ -1,40 +1,30 @@
-# Start Sua Carreira - Portfólio
+# Xinnot - Perfil
 
-Aqui vamos desenvoler ao longo dos dias desse curso, um currículo/portfólio.
+Repósitorio para mostrar meus projetos.
 
-Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
+Esse repositório sempre será atualizado.
 
-## O Projeto
+## Repósitoros
 
-### Estruturas de Pastas
+### Meus repósitorios:
 
-- kenzie-academy_startnasuacarreira.png
-- README.md
-- dia1/
-  - index.html
-  - assets/
-   - img/
-    - facebook-app-symbol.svg
-    - github-big-logo.svg
-    - hudson.svg
-    - instagram.svg
-    -  linkedin.svg
-    - youtube.svg
-   - css/
-    - style.css
+- HTML-Projects
+  - [Veja aqui!](https://github.com/Xinnot/HTML-Projects)https://github.com/Xinnot/HTML-Projects
 
-### Especificações
+- Python-Projects
+  - [Veja aqui!](https://github.com/Xinnot/Python-Projects)
 
-- Fonte utilizada: "Open Sans", san-serif;
-- Cores utilizadas:
-    - Azul escuro: `#04133d`;
-    - Azul: `#0a78fa`;
-    - Azul claro: `#45dbfc`;
-    - Azul mais claro: `#d4e9ff`;
-    - Branco: `#fff`;
-    - Cinza escuro: `#636363`;
-    - Cinza claro: `#aeaeae`;
+### Linguagens Contidas nos repósitorios:
 
-### O Layout
+- Linguagem de Marcação: `HTML`;
+- Linguagem de Marcação: `CSS`;
+- Linguagem de Programação: `JavaScript`;
+- Linguagem de Programação: `Python`
 
-[Desktop](https://github.com/Kenzie-Academy-Brasil/portfolio-start-sua-carreira/blob/main/kenzie-acaddemy_startsuacarreira.png)
+### Minhas Redes Sociais
+
+[GitHub](https://github.com/Xinnot/)
+
+[CodePen](https://codepen.io/Xinnot)
+
+[CodeWars](https://www.codewars.com/users/Xinnot)
